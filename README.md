@@ -22,7 +22,7 @@
 
 <br>
 <br>
-<p align="left"> 🔗 Segue Deploy teste em seu dispositivo : https://taste-nu.vercel.app/
+<p align="left"> 🔗 Segue Deploy teste em seu dispositivo : https://taste-jbjg7197s-lucas8901.vercel.app/
 <br>
 <br>
 
