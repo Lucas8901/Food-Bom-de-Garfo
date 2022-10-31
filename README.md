@@ -22,6 +22,9 @@
 
 <br>
 <br>
+<p align="left"> 🔗 Segue Deploy teste em seu dispositivo : https://taste-nu.vercel.app/
+<br>
+<br>
 
 <h2 align="left"> Tecnologias utilizadas no projeto 👨‍💻</h2>
 
@@ -34,6 +37,8 @@
 </div>
 <br>
 <br>
+
+
 
 <h2> 🔗Conecte-se comigo <img src=https://user-images.githubusercontent.com/69019626/121693520-9b5b6100-ca9f-11eb-9667-aea4b1578685.gif width="70"></h2>
 
