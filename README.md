@@ -1,13 +1,13 @@
 # 50 Projects in 50 Days- HTML, CSS & JavaScript
 
 
-### Auto Text Effect,  feito  no 24º dia de 50 dias de  projetos do CSS E JAVASCRIPT
+### 🍔 Bom di Garfo, feito  no 25º dia de 50 dias de  projetos do CSS E JAVASCRIPT
 <br>
 
-<h2 align="left">Descrição do projeto</h2>
+<h2 align="left">Descrição do projeto:</h2>
 
-<p align="left">este projeto foi criando para exercitar alguns conceitos  em: CSS e Javascript
-o projeto tem como conceito principal: A utilização de Javascript para criar um efeito de acelerar animação ao clique do input, feito em javascript
+<p align="left"> o projeto tem alguns conceitos de Css e Javascript, o site esta responsivo a tela menores e aborda o tema de um restaurante completo 
+
 <br>
 <br>
 
@@ -16,7 +16,7 @@ o projeto tem como conceito principal: A utilização de Javascript para criar u
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Auto-Text-Effect/blob/main/gif/cinnamon-2022-10-27T232058-0300%20(1).gif"/>
+  <img src="https://github.com/Lucas8901/Food-Bom-de-Garfo/blob/main/gif/cinnamon-2022-10-30T211000-0300%20(1).gif"/>
   </div>
 
 
